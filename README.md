@@ -11,6 +11,7 @@
 
 ## prerequisite to run this product: 
 
-Mlab account it's free upto 512 MB or mongodb if you atre using mongodb you need to install dependecy in app fist and then use,
+Mlab account it's free upto 512 MB or mongodb if you are using mongodb you need to install dependecy in app fist and then use,
 Node (Download node https://nodejs.org/en/download/)
 
+Shoebkhan@2017
